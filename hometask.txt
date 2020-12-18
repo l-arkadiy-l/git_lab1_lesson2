@@ -1,1 +1,9 @@
 Ветки master и demo имеют различия только в README.md файле
+
+6 коммитов
+`Create hometask.txt`
+`merge hat and boots_buttons into master branch`
+`merge hat and boots_buttons into master branch`
+`Merge branch 'boots_buttons'`
+`Merge remote-tracking branch 'origin/hat'`
+`Merge remote-tracking branch 'origin/buttons' into boots_buttons`
